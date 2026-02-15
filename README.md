@@ -64,7 +64,7 @@ results.plot()
 
 ## 📁 Project Structure
 ```
-comsol_data-analytics/
+perovskite_py-comsol/
 ├── breakthrough.py          # Breakthrough equation solver
 ├── drift_diffusion.py       # Drift-diffusion model
 ├── jv_analysis.py          # J-V characterization
