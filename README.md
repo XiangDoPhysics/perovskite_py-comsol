@@ -28,7 +28,7 @@
 ```bash
 # Clone repository
 git clone https://github.com/YOUR_USERNAME/perovskite_py-comsol.git
-cd comsol_data-analytics
+cd perovskite_py-comsol
 
 # Install dependencies
 pip install -r requirements.txt
