@@ -131,7 +131,7 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 **Leslie**
 - Physics Student @ UTAR
 - Research: Renewable Energy & Computational Materials
-- Part of [COMSOL Data Analytics - Perovskite Solar Cell](https://github.com/YOUR_USERNAME/perovskite_py-comsol) ecosystem
+- Part of [COMSOL Data Analytics - Perovskite Solar Cell](https://github.com/XiangDoPhysics/perovskite_py-comsol) ecosystem
 
 ## 🙏 Acknowledgments
 
