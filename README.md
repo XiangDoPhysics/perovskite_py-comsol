@@ -27,7 +27,7 @@
 ### Installation
 ```bash
 # Clone repository
-git clone https://github.com/YOUR_USERNAME/comsol_data-analytics.git
+git clone https://github.com/YOUR_USERNAME/perovskite_py-comsol.git
 cd comsol_data-analytics
 
 # Install dependencies
